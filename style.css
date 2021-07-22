@@ -2,6 +2,20 @@
     width: 100%;
 }
 
+h2{
+  font-family: Impact, fantasy;
+  font-size: 30px;
+  font-style: normal;
+  color: royalblue;
+}
+
+h4{
+  font-family: Impact, fantasy;
+  font-size: 20px;
+  font-style: normal;
+  color: skyblue;
+}
+
 #menu{
     width:100%;
     height: 40px;
